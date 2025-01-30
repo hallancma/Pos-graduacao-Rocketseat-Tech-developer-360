@@ -1,0 +1,2 @@
+Introdução ao TypeScript
+Nesta etapa, vamos estudar o TypeScript separadamente para adicionar tipagem ao JavaScript. Vamos focar em entender o que é o TypeScript, por que utilizá-lo e como utilizar suas ferramentas na prática. Utilizaremos o TypeScript Playground como ambiente de desenvolvimento, uma ferramenta online para testar o TypeScript sem precisar instalar nada. Posteriormente, aplicaremos o TypeScript no React e no Node, mas inicialmente vamos nos concentrar em estudar o TypeScript isoladamente. Vamos começar os estudos juntos!
